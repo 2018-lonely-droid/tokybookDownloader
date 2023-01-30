@@ -17,8 +17,6 @@ def cleanHTML(html):
                           "post_id": "0",
                           },""", '[') # Get rid of leading welcome audio that is not needed
 
-  print(tracks)
-
   return tracks
 
 
